@@ -8,10 +8,10 @@ Hello! 👋 I'm Samin Yeaser Rahman, a Computer Science graduate from BRAC Unive
 
 As a full-stack developer, I have experience with the following technologies:
 
-- **Backend:** Django, Django Rest Framework (DRF)
-- **Frontend:** Vue.js
+- **Backend:** Django, Django Rest Framework (DRF), Laravel
+- **Frontend:** Vue.js, Blade
 - **Database:** PostgreSQL, MySQL
-- **CSS Framework:** Tailwind CSS
+- **CSS Framework:** Tailwind CSS, Bootstrap
 
 ## Get in Touch
 
