@@ -2,15 +2,15 @@
 
 ## Introduction
 
-Hello! 👋 I'm Samin Yeaser Rahman, a Computer Science graduate from BRAC University. I am passionate about building innovative software solutions and exploring new technologies.
+Hello! 👋 I'm Samin Yeaser Rahman, a Computer Science graduate from BRAC University. I am deeply passionate about building innovative software solutions and continuously exploring cutting-edge technologies.
 
 ## Skills
 
-As a full-stack developer, I have experience with the following technologies:
+As a back-end developer, I specialize in the following technologies:
 
-- **Backend:** Django, Django Rest Framework (DRF), Laravel
-- **Frontend:** Vue.js, Blade
-- **Database:** PostgreSQL, MySQL
+- **Backend:** Laravel, Django
+- **Frontend:** Vue.js, Blade (Laravel Templating Engine)
+- **Database:** MySQL, PostgreSQL (Primary: MySQL as Laravel often pairs well with it)
 - **CSS Framework:** Tailwind CSS, Bootstrap
 
 ## Get in Touch
