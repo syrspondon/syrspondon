@@ -43,7 +43,7 @@ A passionate **Back-End Developer** and a graduate from **BRAC University**, spe
 ## 🎯 **Currently Exploring**  
 - Advanced database sharding techniques  
 - Optimizing API performance for large-scale applications  
-- Exploring Laravel 10 features  
+- Exploring Laravel 11 features  
 
 ---
 
